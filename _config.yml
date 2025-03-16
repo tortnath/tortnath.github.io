@@ -1,0 +1,5 @@
+remote_theme: just-the-docs/just-the-docs
+title: Mon Portfolio
+color_scheme: dark
+exclude:
+  - LICENSE
