@@ -1,14 +1,18 @@
 ---
 title: "Accueil"
 nav_order: 1
+---
 title: "Réseaux"
-nav_order: 2
+nav_order: 1
+---
 title: "Cyber"
-nav_order: 3
+nav_order: 1
+---
 title: "Stage"
-nav_order: 4
+nav_order: 1
+---
 title: "Lycée Coëtlogon"
-nav_order: 5
+nav_order: 1
 ---
 
 # Bonjour, je suis Nathan BARA 👋
