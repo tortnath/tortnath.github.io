@@ -1,18 +1,9 @@
----
-title: "Accueil"
-nav_order: 1
----
-
-# tortnath.github.io
-
-Mon porte Foilio
-
 # Bonjour, je suis Nathan BARA 👋
 
 ## 🚀 À propos de moi
-Je suis un développeur passionné, spécialisé en [vos domaines d'expertise]. J'aime créer des solutions innovantes et apprendre de nouvelles technologies.
+Je suis actuellement en BTS SIO SISR.
 
-## 🛠 Logiciels utilisés
+## 🛠 Logiciels Utilisés
 - GLPI
 - Packet Tracer
 - Visual Studio 2022
@@ -20,15 +11,15 @@ Je suis un développeur passionné, spécialisé en [vos domaines d'expertise]. 
 - Wireshark
 - Virtual Box
 
-## 🛠 Systèmes d'Exploitations
+## 🛠 Systèmes d'Exploitations Utilisés
 - Windows 10/11
 - Ubuntu
 - Linux
 - Debian
 
 ## 🔥 Mes meilleurs projets
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=votre_username&repo=nom_repo_1)](https://github.com/votre_username/nom_repo_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=votre_username&repo=nom_repo_2)](https://github.com/votre_username/nom_repo_2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=votre_username&repo=nom_repo_1)]
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=votre_username&repo=nom_repo_2)]
 
 ## 🌱 Ce que j'apprends actuellement
 - Intelligence Artificielle avec TensorFlow
@@ -38,7 +29,7 @@ Je suis un développeur passionné, spécialisé en [vos domaines d'expertise]. 
 ## 📫 Comment me contacter
 - LinkedIn : [Bara Nathan](https://www.linkedin.com/in/nathan-bara-628211356/)
 - Twitter : [@votre_twitter](https://twitter.com/votre_twitter)
-- Site web : [www.votresite.com](https://www.votresite.com)
+- Site web : [www.votresite.com](https://tortnath.github.io/#tortnathgithubio)
 
 ## 👨‍💻 Tous mes projets
 ➡️ [Voir tous mes projets](https://github.com/votre_username?tab=repositories)
