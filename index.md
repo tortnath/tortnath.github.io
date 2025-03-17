@@ -22,22 +22,8 @@ Je suis actuellement en BTS SIO SISR.
 - Linux
 - Debian
 
-## 🔥 Mes meilleurs projets
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=votre_username&repo=nom_repo_1)]
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=votre_username&repo=nom_repo_2)]
-
-## 🌱 Ce que j'apprends actuellement
-- Intelligence Artificielle avec TensorFlow
-- Architecture microservices
-- GraphQL
-
 ## 📫 Comment me contacter
 - LinkedIn : [Bara Nathan](https://www.linkedin.com/in/nathan-bara-628211356/)
-- Twitter : [@votre_twitter](https://twitter.com/votre_twitter)
-- Site web : [www.votresite.com](https://tortnath.github.io/#tortnathgithubio)
+- Adresse mail : [nathanbara27@gmail.com](https://twitter.com/votre_twitter)
 
-## 👨‍💻 Tous mes projets
-➡️ [Voir tous mes projets](https://github.com/votre_username?tab=repositories)
-
-⭐️ From [votre_username](https://tortnath.github.io/#tortnathgithubio)
 
