@@ -1,3 +1,8 @@
+---
+title: "Accueil"
+nav_order: 1
+---
+
 # Bonjour, je suis Nathan BARA 👋
 
 ## 🚀 À propos de moi
