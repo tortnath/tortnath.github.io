@@ -1,9 +1,5 @@
 ---
 title: "Accueil"
-title: "Réseaux"
-title: "Cyber"
-title: "Stage"
-title: "Lycée Coëtlogon"
 nav_order: 1
 ---
 
