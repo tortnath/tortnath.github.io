@@ -1,51 +1,87 @@
+/* =====================
+   STYLE GLOBAL
+===================== */
 body {
-font-family: Arial, sans-serif;
-margin: 0;
-background: #f4f4f4;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f4f4f4;
 }
 
-
+/* =====================
+   HEADER & NAVIGATION
+===================== */
 header {
-background: #222;
-color: white;
-padding: 20px;
+  background: #222;
+  color: white;
+  padding: 20px;
 }
-
 
 nav a {
-color: white;
-margin-right: 15px;
-text-decoration: none;
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
 }
 
+nav a:hover {
+  text-decoration: underline;
+}
 
+/* =====================
+   CONTENU PRINCIPAL
+===================== */
 main {
-padding: 20px;
+  padding: 20px;
 }
 
-
+/* =====================
+   GRILLE DES PROJETS
+===================== */
 .grid {
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 projets par ligne */
+  gap: 20px;
 }
 
+/* Responsive (mobile) */
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
 
+/* =====================
+   CARTES PROJETS
+===================== */
 .card {
-background: white;
-padding: 15px;
-border-radius: 8px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  transition: 0.3s ease;
 }
 
+/* Carte cliquable */
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
 
+.card-link:hover .card {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* =====================
+   FORMULAIRE CONTACT
+===================== */
 form {
-display: flex;
-flex-direction: column;
-max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
 }
 
-
-form input, form textarea, form button {
-margin-bottom: 10px;
-padding: 10px;
+form input,
+form textarea,
+form button {
+  margin-bottom: 10px;
+  padding: 10px;
 }
